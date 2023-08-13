@@ -1,0 +1,57 @@
+.bottom-line{
+  border-bottom: 1px solid #eee;
+}
+.app{
+  width: 1100px;
+  margin: auto;
+  color: #222;
+}
+.productTable{
+  margin: -0.5rem 0 0 5rem ;
+}
+.fieldTable{
+  margin: -1rem 0 0 5rem ;
+}
+.dieTable{
+  margin: 0.3rem 0 0rem 5rem ;
+}
+.setupField{
+  margin: -11.5rem 0 -25rem 46rem ;
+}
+.fields{
+  margin: -4rem -2.5rem 0.6rem 5.3rem ;
+}
+.widthname{
+  margin: -4rem -2.5rem 0.6rem 2.9rem ;
+}
+.widthnumber{
+  margin: -4rem -2.5rem 0.6rem 4.3rem ;
+}
+.widthSize{
+  margin: -4rem -2.5rem 0.6rem 5rem ;
+}
+.widthlabel{
+  margin: -6rem 0 -0.30rem 5rem ;
+}
+.widthbutton{
+  margin: 2rem 0rem 0.6rem 13rem ;
+}
+.widthfields{
+  margin: -4rem -0.21rem 0.5rem 5.7rem ;
+}
+.buttons{
+  margin: -7rem 0 0rem 21rem ;
+  
+}
+.plusminus{
+  width: 20px;
+}
+.minusplus{
+  color:cornflowerblue;
+}
+.required {
+  color: red;
+}
+.button{
+  background-color:cornflowerblue;
+}
